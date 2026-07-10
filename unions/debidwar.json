@@ -1,0 +1,17 @@
+[
+  {"id":"barashalghar","name":"বড়শালঘর"},
+  {"id":"yousufpur","name":"ইউসুফপুর"},
+  {"id":"rasulpur","name":"রসুলপুর"},
+  {"id":"subil","name":"সুবিল"},
+  {"id":"fatehabad","name":"ফতেহাবাদ"},
+  {"id":"elahabad","name":"এলাহাবাদ"},
+  {"id":"jafarganj","name":"জাফরগঞ্জ"},
+  {"id":"gunaighor-uttar","name":"গুনাইঘর উত্তর"},
+  {"id":"gunaighor-dakshin","name":"গুনাইঘর দক্ষিণ"},
+  {"id":"rajamehar","name":"রাজামেহার"},
+  {"id":"bhani","name":"ভানী"},
+  {"id":"dhamati","name":"ধামতী"},
+  {"id":"sultanpur","name":"সুলতানপুর"},
+  {"id":"barkamta","name":"বরকামতা"},
+  {"id":"mohanpur","name":"মোহনপুর"}
+]
