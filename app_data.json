@@ -1,0 +1,475 @@
+{
+  "_নির্দেশনা": "এটি একটি ডেমো ফাইল। প্রতিটা section এর মধ্যে example হিসেবে ডেটা বসানো আছে। real ডেটা দিয়ে replace করুন, structure (field নাম) অপরিবর্তিত রাখুন।",
+  "doctors": [
+    {
+      "id": "doc001",
+      "name": "ডা. মোহাম্মদ কামরুল হাসান",
+      "specialty": "মেডিসিন বিশেষজ্ঞ",
+      "phone": "01711000001",
+      "chamber": "রাজামেহার বাজার মেডিকেল হল",
+      "visiting_hours": "বিকাল ৪টা - রাত ৮টা",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "rajamehar",
+      "union_name": "রাজামেহার",
+      "ward": "৩নং ওয়ার্ড"
+    },
+    {
+      "id": "doc002",
+      "name": "ডা. সুমাইয়া আক্তার",
+      "specialty": "গাইনী ও প্রসূতি বিশেষজ্ঞ",
+      "phone": "01711000002",
+      "chamber": "রাজামেহার স্বাস্থ্য কেন্দ্র",
+      "visiting_hours": "সকাল ৯টা - দুপুর ২টা",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "rajamehar",
+      "union_name": "রাজামেহার",
+      "ward": "৭নং ওয়ার্ড"
+    },
+    {
+      "id": "doc003",
+      "name": "ডা. আব্দুর রহিম",
+      "specialty": "শিশু বিশেষজ্ঞ",
+      "phone": "01711000003",
+      "chamber": "বড়শালঘর বাজার",
+      "visiting_hours": "বিকাল ৫টা - রাত ৯টা",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "barashalghar",
+      "union_name": "বড়শালঘর",
+      "ward": "২নং ওয়ার্ড"
+    }
+  ],
+  "providers": [
+    {
+      "id": "prv001",
+      "name": "মোঃ কামাল হোসেন",
+      "category": "ইলেকট্রিশিয়ান",
+      "description": "বাসাবাড়ি ও দোকানের ওয়্যারিং, ফ্যান-লাইট মেরামত",
+      "phone": "01711000010",
+      "whatsapp": "01711000010",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "rajamehar",
+      "union_name": "রাজামেহার",
+      "ward": "৩নং ওয়ার্ড"
+    },
+    {
+      "id": "prv002",
+      "name": "মোঃ সেলিম মিয়া",
+      "category": "প্লাম্বার",
+      "description": "পানির লাইন, স্যানিটারি মেরামত ও সংযোগ",
+      "phone": "01711000011",
+      "whatsapp": "01711000011",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "barashalghar",
+      "union_name": "বড়শালঘর",
+      "ward": "১নং ওয়ার্ড"
+    },
+    {
+      "id": "prv003",
+      "name": "মোঃ আলম মিয়া",
+      "category": "রাজমিস্ত্রি",
+      "description": "ঘর নির্মাণ, দেয়াল গাঁথুনি, প্লাস্টার",
+      "phone": "01711000012",
+      "whatsapp": "01711000012",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "yousufpur",
+      "union_name": "ইউসুফপুর",
+      "ward": "২নং ওয়ার্ড"
+    },
+    {
+      "id": "prv004",
+      "name": "মোঃ ফরহাদ হোসেন",
+      "category": "ছুতার মিস্ত্রি",
+      "description": "কাঠের আসবাবপত্র তৈরি ও মেরামত, দরজা-জানালা",
+      "phone": "01711000013",
+      "whatsapp": "01711000013",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "rasulpur",
+      "union_name": "রসুলপুর",
+      "ward": "৪নং ওয়ার্ড"
+    },
+    {
+      "id": "prv005",
+      "name": "মোছাঃ রহিমা বেগম",
+      "category": "দর্জি",
+      "description": "মহিলা ও শিশুদের পোশাক সেলাই, অল্টারেশন",
+      "phone": "01711000014",
+      "whatsapp": "01711000014",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "subil",
+      "union_name": "সুবিল",
+      "ward": "৬নং ওয়ার্ড"
+    },
+    {
+      "id": "prv006",
+      "name": "মোঃ ইউসুফ আলী",
+      "category": "গাড়িচালক",
+      "description": "প্রাইভেট কার ও মাইক্রোবাস চালনা, ভাড়ায় পাওয়া যায়",
+      "phone": "01711000015",
+      "whatsapp": "01711000015",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "fatehabad",
+      "union_name": "ফতেহাবাদ",
+      "ward": "৭নং ওয়ার্ড"
+    },
+    {
+      "id": "prv007",
+      "name": "মোছাঃ শারমিন আক্তার",
+      "category": "গৃহশিক্ষক",
+      "description": "প্রাথমিক ও মাধ্যমিক শ্রেণির সকল বিষয়ে হোম টিউশন",
+      "phone": "01711000016",
+      "whatsapp": "01711000016",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "elahabad",
+      "union_name": "এলাহাবাদ",
+      "ward": "৫নং ওয়ার্ড"
+    },
+    {
+      "id": "prv008",
+      "name": "মোঃ জসিম উদ্দিন",
+      "category": "ইলেকট্রনিক্স মেরামত",
+      "description": "টিভি, ফ্রিজ, ওয়াশিং মেশিন মেরামত",
+      "phone": "01711000017",
+      "whatsapp": "01711000017",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "jafarganj",
+      "union_name": "জাফরগঞ্জ",
+      "ward": "৮নং ওয়ার্ড"
+    },
+    {
+      "id": "prv009",
+      "name": "মোঃ রাকিব হাসান",
+      "category": "কম্পিউটার/মোবাইল সার্ভিসিং",
+      "description": "মোবাইল ও কম্পিউটার হার্ডওয়্যার-সফটওয়্যার মেরামত",
+      "phone": "01711000018",
+      "whatsapp": "01711000018",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "rajamehar",
+      "union_name": "রাজামেহার",
+      "ward": "৯নং ওয়ার্ড"
+    },
+    {
+      "id": "prv010",
+      "name": "মোঃ নাসির উদ্দিন",
+      "category": "পরিবহন/ডেলিভারি",
+      "description": "মালামাল পরিবহন, হোম ডেলিভারি সার্ভিস",
+      "phone": "01711000019",
+      "whatsapp": "01711000019",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "mohanpur",
+      "union_name": "মোহনপুর",
+      "ward": "১নং ওয়ার্ড"
+    },
+    {
+      "id": "prv011",
+      "name": "মোঃ শহিদুল ইসলাম",
+      "category": "অন্যান্য",
+      "description": "সাধারণ হ্যান্ডিম্যান সেবা, ছোটখাটো মেরামত কাজ",
+      "phone": "01711000020",
+      "whatsapp": "01711000020",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "barkamta",
+      "union_name": "বরকামতা",
+      "ward": "৩নং ওয়ার্ড"
+    }
+  ],
+  "markets": [
+    {
+      "id": "mkt001",
+      "name": "কুমিল্লা সদর বাজার",
+      "upazila_id": "comilla-sadar",
+      "upazila_name": "কুমিল্লা সদর",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt002",
+      "name": "সদর দক্ষিণ বাজার",
+      "upazila_id": "comilla-sadar-dakshin",
+      "upazila_name": "সদর দক্ষিণ",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt003",
+      "name": "দেবিদ্বার বাজার",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt004",
+      "name": "বরুড়া বাজার",
+      "upazila_id": "barura",
+      "upazila_name": "বরুড়া",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt005",
+      "name": "ব্রাহ্মণপাড়া বাজার",
+      "upazila_id": "brahmanpara",
+      "upazila_name": "ব্রাহ্মণপাড়া",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt006",
+      "name": "চান্দিনা বাজার",
+      "upazila_id": "chandina",
+      "upazila_name": "চান্দিনা",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt007",
+      "name": "চৌদ্দগ্রাম বাজার",
+      "upazila_id": "chauddagram",
+      "upazila_name": "চৌদ্দগ্রাম",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt008",
+      "name": "দাউদকান্দি বাজার",
+      "upazila_id": "daudkandi",
+      "upazila_name": "দাউদকান্দি",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt009",
+      "name": "হোমনা বাজার",
+      "upazila_id": "homna",
+      "upazila_name": "হোমনা",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt010",
+      "name": "লাকসাম বাজার",
+      "upazila_id": "laksam",
+      "upazila_name": "লাকসাম",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt011",
+      "name": "লালমাই বাজার",
+      "upazila_id": "lalmai",
+      "upazila_name": "লালমাই",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt012",
+      "name": "মেঘনা বাজার",
+      "upazila_id": "meghna",
+      "upazila_name": "মেঘনা",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt013",
+      "name": "মনোহরগঞ্জ বাজার",
+      "upazila_id": "manoharganj",
+      "upazila_name": "মনোহরগঞ্জ",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt014",
+      "name": "মুরাদনগর বাজার",
+      "upazila_id": "muradnagar",
+      "upazila_name": "মুরাদনগর",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt015",
+      "name": "নাঙ্গলকোট বাজার",
+      "upazila_id": "nangalkot",
+      "upazila_name": "নাঙ্গলকোট",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt016",
+      "name": "তিতাস বাজার",
+      "upazila_id": "titas",
+      "upazila_name": "তিতাস",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt017",
+      "name": "বুড়িচং বাজার",
+      "upazila_id": "burichang",
+      "upazila_name": "বুড়িচং",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    },
+    {
+      "id": "mkt018",
+      "name": "বাঙ্গরা বাজার",
+      "upazila_id": "bangra",
+      "upazila_name": "বাঙ্গরা",
+      "union_id": "",
+      "union_name": "",
+      "market_day": "প্রতিদিন",
+      "description": "উপজেলা সদরের প্রধান বাজার"
+    }
+  ],
+  "services": [
+    {
+      "id": "svc001",
+      "name": "জন্ম নিবন্ধন",
+      "category": "নাগরিক সেবা",
+      "description": "অনলাইনে জন্ম নিবন্ধন আবেদন ও সংশোধন প্রক্রিয়া",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার"
+    },
+    {
+      "id": "svc002",
+      "name": "ভূমি খাজনা পরিশোধ",
+      "category": "ভূমি সেবা",
+      "description": "অনলাইন ভূমি উন্নয়ন কর (খাজনা) পরিশোধ পদ্ধতি",
+      "upazila_id": "debidwar",
+      "upazila_name": "দেবিদ্বার"
+    },
+    {
+      "id": "svc003",
+      "name": "ট্রেড লাইসেন্স আবেদন",
+      "category": "ব্যবসায়িক সেবা",
+      "description": "নতুন ব্যবসা প্রতিষ্ঠানের ট্রেড লাইসেন্স করার নিয়মাবলী",
+      "upazila_id": "comilla-sadar",
+      "upazila_name": "কুমিল্লা সদর"
+    }
+  ],
+  "faq": [
+    {
+      "id": "faq001",
+      "question": "জন্ম নিবন্ধন করতে কী কী কাগজ লাগে",
+      "answer": "পিতা-মাতার জাতীয় পরিচয়পত্র, হাসপাতালের ছাড়পত্র (যদি থাকে) এবং টিকা কার্ড প্রয়োজন হয়।"
+    },
+    {
+      "id": "faq002",
+      "question": "অ্যাপ কি অফলাইনে কাজ করে",
+      "answer": "হ্যাঁ, একবার ডেটা লোড হয়ে গেলে কিছু তথ্য অফলাইনেও দেখা যায়। নতুন তথ্যের জন্য ইন্টারনেট প্রয়োজন।"
+    },
+    {
+      "id": "faq003",
+      "question": "অভিযোগ জানালে উত্তর পেতে কতদিন লাগে",
+      "answer": "সাধারণত ৩-৭ কার্যদিবসের মধ্যে সাড়া পাওয়া যায়। জরুরি বিষয়ে সরাসরি 'জরুরি সেবা' নম্বরে যোগাযোগ করুন।"
+    }
+  ],
+  "notices": [
+    {
+      "id": "ntc001",
+      "title": "আমাদের কুমিল্লা অ্যাপে স্বাগতম 🎉",
+      "message": "এখন থেকে কুমিল্লা জেলার সব উপজেলার তথ্য এক জায়গায় পাবেন।",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "ntc002",
+      "title": "প্রোভাইডার তালিকা আপডেট হয়েছে",
+      "message": "দেবিদ্বার উপজেলার বিভিন্ন ইউনিয়নে নতুন সার্ভিস প্রোভাইডার যুক্ত করা হয়েছে।",
+      "date": "2026-07-03"
+    }
+  ],
+  "slider": [
+    {
+      "id": "sl001",
+      "title": "আমাদের কুমিল্লা অ্যাপে স্বাগতম",
+      "image_url": "",
+      "action_type": "none",
+      "action_value": ""
+    },
+    {
+      "id": "sl002",
+      "title": "📞 করিম ফার্মেসি — এখনই কল করুন",
+      "image_url": "",
+      "action_type": "call",
+      "action_value": "01711000099"
+    },
+    {
+      "id": "sl003",
+      "title": "👍 আমাদের Facebook পেজে যুক্ত হোন",
+      "image_url": "",
+      "action_type": "url",
+      "action_value": "https://facebook.com/amardebidwar"
+    }
+  ],
+  "shops": [
+    {
+      "id": "shop001",
+      "name": "করিম মুদি স্টোর",
+      "category": "মুদি দোকান",
+      "description": "চাল-ডাল-তেল সহ সব নিত্যপ্রয়োজনীয় পণ্য",
+      "phone": "01711000030",
+      "whatsapp": "01711000030",
+      "market_id": "mkt003",
+      "market_name": "দেবিদ্বার বাজার",
+      "upazila_name": "দেবিদ্বার"
+    },
+    {
+      "id": "shop002",
+      "name": "রহিম ফার্মেসি",
+      "category": "ওষুধের দোকান (ফার্মেসি)",
+      "description": "সব ধরনের ওষুধ ও প্রাথমিক চিকিৎসা সামগ্রী",
+      "phone": "01711000031",
+      "whatsapp": "01711000031",
+      "market_id": "mkt003",
+      "market_name": "দেবিদ্বার বাজার",
+      "upazila_name": "দেবিদ্বার"
+    }
+  ]
+}
