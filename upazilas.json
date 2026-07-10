@@ -1,0 +1,128 @@
+[
+  {
+    "id": "comilla-sadar",
+    "name": "কুমিল্লা সদর",
+    "emoji": "🏛️",
+    "lat": 23.4607,
+    "lng": 91.1809
+  },
+  {
+    "id": "comilla-sadar-dakshin",
+    "name": "সদর দক্ষিণ",
+    "emoji": "🌆",
+    "lat": 23.42,
+    "lng": 91.17
+  },
+  {
+    "id": "debidwar",
+    "name": "দেবিদ্বার",
+    "emoji": "🌺",
+    "lat": 23.6039,
+    "lng": 91.0208
+  },
+  {
+    "id": "barura",
+    "name": "বরুড়া",
+    "emoji": "🌿",
+    "lat": 23.4333,
+    "lng": 91.0167
+  },
+  {
+    "id": "brahmanpara",
+    "name": "ব্রাহ্মণপাড়া",
+    "emoji": "🌻",
+    "lat": 23.5833,
+    "lng": 91.15
+  },
+  {
+    "id": "chandina",
+    "name": "চান্দিনা",
+    "emoji": "🌾",
+    "lat": 23.5333,
+    "lng": 90.9833
+  },
+  {
+    "id": "chauddagram",
+    "name": "চৌদ্দগ্রাম",
+    "emoji": "🌳",
+    "lat": 23.2667,
+    "lng": 91.1667
+  },
+  {
+    "id": "daudkandi",
+    "name": "দাউদকান্দি",
+    "emoji": "🚤",
+    "lat": 23.5333,
+    "lng": 90.7
+  },
+  {
+    "id": "homna",
+    "name": "হোমনা",
+    "emoji": "🌊",
+    "lat": 23.6333,
+    "lng": 90.7667
+  },
+  {
+    "id": "laksam",
+    "name": "লাকসাম",
+    "emoji": "🚉",
+    "lat": 23.2333,
+    "lng": 91.1333
+  },
+  {
+    "id": "lalmai",
+    "name": "লালমাই",
+    "emoji": "⛰️",
+    "lat": 23.3667,
+    "lng": 91.1
+  },
+  {
+    "id": "meghna",
+    "name": "মেঘনা",
+    "emoji": "🌉",
+    "lat": 23.6833,
+    "lng": 90.6667
+  },
+  {
+    "id": "manoharganj",
+    "name": "মনোহরগঞ্জ",
+    "emoji": "🏞️",
+    "lat": 23.2833,
+    "lng": 91.0333
+  },
+  {
+    "id": "muradnagar",
+    "name": "মুরাদনগর",
+    "emoji": "🌴",
+    "lat": 23.6167,
+    "lng": 90.9167
+  },
+  {
+    "id": "nangalkot",
+    "name": "নাঙ্গলকোট",
+    "emoji": "🌱",
+    "lat": 23.1667,
+    "lng": 91.1833
+  },
+  {
+    "id": "titas",
+    "name": "তিতাস",
+    "emoji": "🐟",
+    "lat": 23.65,
+    "lng": 90.85
+  },
+  {
+    "id": "burichang",
+    "name": "বুড়িচং",
+    "emoji": "🌼",
+    "lat": 23.5333,
+    "lng": 91.15
+  },
+  {
+    "id": "bangra",
+    "name": "বাঙ্গরা",
+    "emoji": "🌱",
+    "lat": 23.6667,
+    "lng": 90.95
+  }
+]
