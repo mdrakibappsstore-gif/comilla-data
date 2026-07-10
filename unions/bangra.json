@@ -1,0 +1,12 @@
+[
+  { "id": "srikail", "name": "শ্রীকাইল" },
+  { "id": "akubpur", "name": "আকুবপুর" },
+  { "id": "andikot", "name": "আন্দিকোট" },
+  { "id": "purbadhoir-purba", "name": "পূর্বধইর পূর্ব" },
+  { "id": "purbadhoir-paschim", "name": "পূর্বধইর পশ্চিম" },
+  { "id": "bangra-purba", "name": "বাঙ্গরা পূর্ব (সদর)" },
+  { "id": "bangra-paschim", "name": "বাঙ্গরা পশ্চিম" },
+  { "id": "chapitala", "name": "চাপিতলা" },
+  { "id": "ramchandrapur-uttar", "name": "রামচন্দ্রপুর উত্তর" },
+  { "id": "tanki", "name": "টনকী" }
+]
