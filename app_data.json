@@ -55,11 +55,7 @@
     {"id": "ntc001","title": "আমাদের কুমিল্লা অ্যাপে স্বাগতম 🎉","message": "এখন থেকে কুমিল্লা জেলার সব উপজেলার তথ্য এক জায়গায় পাবেন।","date": "2026-07-03"},
     {"id": "ntc002","title": "প্রোভাইডার তালিকা আপডেট হয়েছে","message": "দেবিদ্বার উপজেলার বিভিন্ন ইউনিয়নে নতুন সার্ভিস প্রোভাইডার যুক্ত করা হয়েছে।","date": "2026-07-03"}
   ],
-  "slider": [
-    {"id": "sl001","title": "আমাদের কুমিল্লা অ্যাপে স্বাগতম","image_url": "","action_type": "none","action_value": ""},
-    {"id": "sl002","title": "📞 করিম ফার্মেসি — এখনই কল করুন","image_url": "","action_type": "call","action_value": "01711000099"},
-    {"id": "sl003","title": "👍 আমাদের Facebook পেজে যুক্ত হোন","image_url": "","action_type": "url","action_value": "https://facebook.com/amardebidwar"}
-  ],
+
   "shops": [
     {"id": "shop001","name": "করিম মুদি স্টোর","category": "মুদি দোকান","description": "চাল-ডাল-তেল সহ সব নিত্যপ্রয়োজনীয় পণ্য","phone": "01711000030","whatsapp": "01711000030","market_id": "mkt003","market_name": "দেবিদ্বার বাজার","upazila_name": "দেবিদ্বার"},
     {"id": "shop002","name": "রহিম ফার্মেসি","category": "ওষুধের দোকান (ফার্মেসি)","description": "সব ধরনের ওষুধ ও প্রাথমিক চিকিৎসা সামগ্রী","phone": "01711000031","whatsapp": "01711000031","market_id": "mkt003","market_name": "দেবিদ্বার বাজার","upazila_name": "দেবিদ্বার"}
